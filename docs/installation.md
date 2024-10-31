@@ -13,8 +13,8 @@ Before proceeding to  LAiSER, you'd want to follow the steps below to install th
   or download the [zip(link)](https://github.com/Micah-Sanders/LAiSER/archive/refs/heads/main.zip) file and extract it.
 
 ### ii. Install the dependencies
-> [!NOTE]
-> If you intend to use the Jupyter Notebook interface, you can skip this step as the dependencies will be installed seperately in the Google Colab environment.
+!!! note "NOTE"
+    > If you intend to use the Jupyter Notebook interface, you can skip this step as the dependencies will be installed seperately in the Google Colab environment.
 
 Install the required dependencies using the command below:
 ```shell

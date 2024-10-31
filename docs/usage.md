@@ -16,8 +16,8 @@ To use LAiSER as a command line tool, follow the steps below:
   python main.py
 ```
 
-> [!CAUTION]
-> - If you encounter any `*.dll` file missing errors, make sure you downgrade the pytorch version to `2.2.2`.
-```shell
-  pip install pytorch=2.2.2
-```
+!!! note "CAUTION"
+    - If you encounter any `*.dll` file missing errors, make sure you downgrade the pytorch version to `2.2.2`.
+    ```shell
+      pip install pytorch=2.2.2
+    ```
