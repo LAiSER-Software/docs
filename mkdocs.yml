@@ -37,11 +37,6 @@ theme:
     code: Red Hat Mono
   icon:
     logo: material/graph-outline
-  favicon: assets/laiser.png
-extra:
-    social:
-      - icon: fontawesome/brands/mastodon 
-        link: https://fosstodon.org/@squidfunk      
 
 markdown_extensions:
   - attr_list

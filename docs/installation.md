@@ -8,9 +8,9 @@
 Before proceeding to  LAiSER, you'd want to follow the steps below to install the required dependencies:
 - Clone the repository using 
 ```shell
-  git clone https://github.com/Micah-Sanders/LAiSER.git
+  git clone https://github.com/LAiSER-Software/extract-module
 ```
-  or download the [zip(link)](https://github.com/Micah-Sanders/LAiSER/archive/refs/heads/main.zip) file and extract it.
+  or download the [zip(link)](https://github.com/LAiSER-Software/extract-module/archive/refs/heads/main.zip) file and extract it.
 
 ### ii. Install the dependencies
 !!! note "NOTE"
