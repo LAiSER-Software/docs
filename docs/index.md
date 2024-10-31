@@ -1,7 +1,8 @@
-# LAiSER V0.2
 
 <!-- Show an image in assets directory here -->
 ![LAiSER](assets/laiser.png)
+
+# LAiSER V0.2
 
 ## Introduction
 Leveraging ​Artificial ​Intelligence for ​Skill ​Extraction &​ Research (LAiSER) is a tool that helps learners, educators and employers share trusted and mutually intelligible information about skills​.
