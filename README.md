@@ -87,7 +87,7 @@ pip install pytorch=2.2.2
 ## Authors
 
 <a href="https://github.com/LAiSER-Software/extract-module/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LAiSER-Software/extract-module" />
+  <img src="https://contrib.rocks/image?repo=LAiSER-Software/docs" />
 </a>
 
 
