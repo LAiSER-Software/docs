@@ -16,7 +16,6 @@ Leveraging ​Artificial ​Intelligence for ​Skill ​Extraction &​ Researc
 ## Getting Started
 - [Installation](installation.md)
 - [Usage](usage.md)
-- [API Reference](api.md)
 - [Contributing](contributing.md)
 - [License](license.md)
 
