@@ -14,9 +14,6 @@ LAiSER is a tool that helps learners, educators and employers share trusted and 
   - [Install LAiSER](#install-LAiSER)
 - [Usage](#usage)
   - [Google Colab Setup(preferred)](#google-colab-setuppreferred)
-  - [Funding](#funding)
-  - [Authors](#authors)
-  - [Partners](#partners)
 <!-- - [Examples](#examples) -->
 - [Funding](#funding)
 - [Authors](#authors)
