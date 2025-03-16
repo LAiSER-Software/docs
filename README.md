@@ -100,8 +100,9 @@ pip install pytorch=2.2.2
 
 <a href="https://github.com/LAiSER-Software/extract-module/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LAiSER-Software/docs" />
-<a href = "https://github.com/bharat21999">
-    <img src="https://github.com/bharat21999.png" width="100" height="100" style="border-radius: 50%; object-fit: cover;"/>
+<div style="width:100px; height:100px; border-radius:50%; overflow:hidden;">
+    <img src="https://github.com/bharat21999.png" width="100" height="100" style="object-fit: cover;"/>
+</div>
 </a>
 
 
