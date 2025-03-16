@@ -40,7 +40,7 @@ The tool emphasizes standardization and transparency, offering a common framewor
 As of now LAiSER can be used a python package in Google Colab or a local machine with GPU access. The steps to setup the tool are as follows:
 
 ### Google Colab Setup (preferred)
-LAiSER's Jupyter notebook is, currently, the fastest way to get started with the tool. You can access the notebook [here](https://github.com/LAiSER-Software/extract-module/blob/main/dev_space/Extract%20Function%20Colab%20Execution.ipynb).
+LAiSER's Jupyter notebook is, currently, the fastest way to get started with the tool. You can access the notebook [here](https://github.com/LAiSER-Software/extract-module/blob/development/dev_space/Extract%20Function%20Colab%20Execution.ipynb).
 
 - Once the notebook is imported in google colaboratory, connect to a GPU-accelerated runtime(T4 GPU) and run the cells in the notebook.
 
