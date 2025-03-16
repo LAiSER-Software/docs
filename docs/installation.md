@@ -2,22 +2,25 @@
 - Python version >= Python 3.12. 
 - A GPU with atelast 15GB video memory is essential for running this tool on large datasets.
 
+!!! note "NOTE"
+   > Google Colab is the preferred mode of execution
+
 ## Installation
 
-### i. Download the repository
-Before proceeding to  LAiSER, you'd want to follow the steps below to install the required dependencies:
-- Clone the repository using 
+### i. Install LAiSER package using pip
+Installing the package all the dependencies will be installed and downloaded: 
 ```shell
-  git clone https://github.com/LAiSER-Software/extract-module
+  pip install laiser
 ```
-  or download the [zip(link)](https://github.com/LAiSER-Software/extract-module/archive/refs/heads/main.zip) file and extract it.
 
-### ii. Install the dependencies
+### ii. Importing Skill Extractor from LAiSER package
 !!! note "NOTE"
-    > If you intend to use the Jupyter Notebook interface, you can skip this step as the dependencies will be installed seperately in the Google Colab environment.
-
-Install the required dependencies using the command below:
+    > You need to also intall pandas and torch libraries to handle data and GPU-accelerated computations.
+Install the required packages:
 ```shell
-  pip install -r requirements.txt
+  from laiser.skill_extractor import Skill_Extractor
+  import pandas as pd
+  import torch
 ```
+
 **NOTE**: Python 3.9 or later, *preferably 3.12*, is expected to be installed on your system. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
