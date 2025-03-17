@@ -10,7 +10,7 @@
 ### i. Install LAiSER package using pip
 Installing the package all the dependencies will be installed and downloaded: 
 ```shell
-  pip install laiser
+  pip install laiser -q
 ```
 
 ### ii. Importing Skill Extractor from LAiSER package
