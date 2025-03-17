@@ -32,7 +32,7 @@ If you find a bug or have a feature request, please create an issue in the [Issu
 
 ## Style Guide
 
-- Follow the existing [code template style.](https://github.com/LAiSER-Software/docs/blob/master/docs/assets/code_template.md)
+- Follow the existing [code template style.](https://github.com/LAiSER-Software/docs/blob/master/docs/assets/code_template.txt)
 - Write clear, concise commit messages.
 - Include comments where necessary.
 
