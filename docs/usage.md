@@ -16,15 +16,6 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 - Follow [this](https://www.educative.io/answers/how-to-get-an-access-token-for-hugging-face) article to create an account in HuggingFace and activate access tokens to access the models.
 
 
-#### Request Gemma Access
-
-- Open [this](https://huggingface.co/google/gemma-2b-it) link to request access for the `google/gemma-2b-it` model.
-
-![gemma-access](./assets/gemma-access.png)
-
-- Follow through the instructions provided in the page and send access request by filling out the requested details.
-
-
 #### Create Colab Secret Keys
 
 - Click the keys (can be found in the below image) button.
@@ -40,7 +31,7 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 - Install the laiser package using pip:
 
 ```shell
-  pip install laiser
+  pip install laiser -q
 ```
 ![key-button](./assets/Installing_LAiSER_Package.png)
 
