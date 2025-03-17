@@ -36,8 +36,3 @@ If you find a bug or have a feature request, please create an issue in the [Issu
 - Write clear, concise commit messages.
 - Include comments where necessary.
 
-## Testing
-
-Ensure that your changes do not break existing tests and add new tests for new features.
-
-Thank you for contributing!
