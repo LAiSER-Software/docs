@@ -6,15 +6,9 @@ This repository contains the documentation for the LAiSER project. The documenta
 ### Contents
 LAiSER is a tool that helps learners, educators and employers share trusted and mutually intelligible information about skills​.
 
-- [LAiSER Documentation for developers and end-users](#laiser-documentation-for-developers-and-end-users)
-    - [Contents](#contents)
-  - [About](#about)
-  - [Requirements](#requirements)
-- [Setup and Installation](#setup-and-installation)
-  - [Install LAiSER](#install-LAiSER)
+- [About](#about)
+- [Installation](#installation)
 - [Usage](#usage)
-  - [Google Colab Setup(preferred)](#google-colab-setuppreferred)
-<!-- - [Examples](#examples) -->
 - [Funding](#funding)
 - [Authors](#authors)
 - [Partners](#partners)
@@ -26,7 +20,7 @@ By leveraging state-of-the-art AI models, LAiSER automates the process of identi
 
 The tool emphasizes standardization and transparency, offering a common framework that bridges the communication gap between different stakeholders. With LAiSER, educators can better align their teaching methods with industry requirements, and employers can more effectively identify the competencies required for their teams. The result is a more efficient and strategic approach to skill development, benefiting the entire ecosystem.
 
-## Setup and Installation
+## Installation
 
 - Install LAiSER using pip:
 
@@ -60,15 +54,6 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 **NOTE**: Python 3.9 or later, *preferably 3.12*, is expected to be installed on your system. If you don't have Python installed, you can download it from [here](https://www.python.org/downloads/).
 
 
-## Usage
-
-As of now LAiSER can be used a command line tool or from the Jupyter notebook(Google Colab). The steps to setup the tool are as follows:
-
-### Google Colab Setup(preferred)
-LAiSER's Jupyter notebook is, currently, the fastest way to get started with the tool. You can access the notebook [here](/notebooks/Extract%20Function%20Colab%20Execution.ipynb)
-
-- Once the notebook is imported in google colaboratory, connect to a GPU-accelerated runtime(T4 GPU) and run the cells in the notebook.
-
 ### Command Line Setup
 To use LAiSER as a command line tool, follow the steps below:
 
@@ -94,13 +79,13 @@ pip install pytorch=2.2.2
 </div>
 
 ## Authors
-
+<div align='center'>
 <a href="https://github.com/LAiSER-Software/extract-module/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LAiSER-Software/docs" />
-<div style="width:100px; height:100px; border-radius:50%; overflow:hidden;">
-    <img src="https://github.com/bharat21999.png" width="100" height="100" style="object-fit: cover;"/>
-</div>
+        <img src="https://github.com/phanindra-max.png" width="100" height="100" style="object-fit: cover;"/>
+        <img src="https://github.com/PrudhvirajuChekuri.png" width="100" height="100" style="object-fit: cover;"/>
+        <img src="https://github.com/bharat21999.png" width="100" height="100" style="object-fit: cover;"/>
 </a>
+</div>
 
 
 ## Partners
