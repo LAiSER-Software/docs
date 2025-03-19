@@ -10,7 +10,8 @@
 ### i. Install LAiSER package using pip
 Installing the package all the dependencies will be installed and downloaded: 
 ```shell
-  pip install laiser -q
+  pip install uv
+  uv pip install laiser -q
 ```
 
 ### ii. Importing Skill Extractor from LAiSER package
@@ -18,7 +19,7 @@ Installing the package all the dependencies will be installed and downloaded:
    > You need to also intall pandas and torch libraries to handle data and GPU-accelerated computations.
 
 Install the required packages:
-```shell
+```python
   from laiser.skill_extractor import Skill_Extractor
   import pandas as pd
   import torch

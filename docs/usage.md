@@ -31,7 +31,8 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 - Install the laiser package using pip:
 
 ```shell
-  pip install laiser -q
+  pip install uv
+  uv pip install laiser -q
 ```
 ![key-button](./assets/Installing_LAiSER_Package.png)
 
@@ -41,7 +42,7 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 
 - Import Skill Extractor from laiser.
 
- ```shell
+ ```python
    from laiser.skill_extractor import Skill_Extractor
  ```
 !!!note "NOTE"
@@ -49,7 +50,7 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 
 - Install additional libraries:
   
- ```shell
+ ```python
     import pandas as pd
     import torch
  ```
@@ -60,7 +61,7 @@ LAiSER's Jupyter notebook is, currently, the fastest way to get started with the
 
 - To initialize the skill extractor follow these steps:
 
- ```shell
+ ```python
   se = Skill_Extractor(AI_MODEL_ID="marcsun13/gemma-2-9b-it-GPTQ", HF_TOKEN="<YOUR_HUGGING_FACE_API_TOKEN>", use_gpu=True)
  ```
 ![key-button](./assets/Initializing_Skill_Extractor.png)
