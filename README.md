@@ -20,6 +20,8 @@ By leveraging state-of-the-art AI models, LAiSER automates the process of identi
 
 The tool emphasizes standardization and transparency, offering a common framework that bridges the communication gap between different stakeholders. With LAiSER, educators can better align their teaching methods with industry requirements, and employers can more effectively identify the competencies required for their teams. The result is a more efficient and strategic approach to skill development, benefiting the entire ecosystem.
 
+This service uses the ESCO classification of the European Commission.
+
 ## Installation
 
 - Install LAiSER using pip:
